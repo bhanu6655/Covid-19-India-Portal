@@ -26,7 +26,6 @@ The columns of the tables are given below,
 | active        | INTEGER |
 | deaths        | INTEGER |
 
-You can use your previous code if required.
 
 #### Sample Valid User Credentials
 
